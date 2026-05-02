@@ -166,7 +166,7 @@ function displayUsers(){
         container.appendChild(div);
     });
 }
-
+    
 function pay(index){
 
     let msg = "Bonjour, je veux payer les frais d'inscription de 25 000 FCFA pour LYLY RENCONTRE.";
